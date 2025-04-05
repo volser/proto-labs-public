@@ -1,3 +1,8 @@
+---
+layout: default
+title: Fifteen App - Privacy Policy
+---
+
 # Privacy Policy
 
 This privacy policy covers the use of 'Fifteen' app.
